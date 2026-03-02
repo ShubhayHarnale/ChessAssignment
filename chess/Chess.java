@@ -1,3 +1,6 @@
+// Names: Shubhay Harnale, Tanav Bollam
+// NetIDs: sh1615, tb811
+
 package chess;
 
 import java.util.ArrayList;
